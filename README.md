@@ -10,7 +10,7 @@ The purpose of this repository is to demonstrate my understanding of software te
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This Project includes testing documentation and QA-related work for multiple applications and business modules, covering different functional areas and user workflows.
 
@@ -25,7 +25,7 @@ This Project includes testing documentation and QA-related work for multiple app
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 SQA/
@@ -48,7 +48,7 @@ SQA/
 
 ---
 
-## 🧪 Testing Activities & Skills
+## Testing Activities & Skills
 
 Through these projects, I have worked with and developed practical knowledge of the following QA activities:
 
@@ -80,7 +80,7 @@ Through these projects, I have worked with and developed practical knowledge of 
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -109,6 +109,6 @@ Interested in Manual Testing, Automation Testing, API Testing, Performance Testi
 - **GitHub:** [webforRahanuma](https://github.com/webforRahanuma)
 - **LinkedIn:** https://www.linkedin.com/in/rahanuma-tasnim-183435202/
 
-⭐ Thank you for visiting my Project
+Thank you for visiting my Project
 
 Feel free to explore the repository and review the testing documentation.
